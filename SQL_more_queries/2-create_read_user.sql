@@ -1,0 +1,2 @@
+-- Ex 3
+CREATE DATABASE hbtn_0d_2
